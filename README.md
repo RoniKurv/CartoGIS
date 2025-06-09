@@ -1,1 +1,1 @@
-Cartographic visualizatio in GIS
+Cartographic visualization in GIS
